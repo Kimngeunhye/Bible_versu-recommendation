@@ -1,0 +1,12 @@
+#main{
+  width:80%;
+  text-align: center;
+  border-radius: 20px;
+}
+
+.main-button{
+  width: 50%;
+  border:0;
+  background-color: blueviolet;
+  color: white;
+}
