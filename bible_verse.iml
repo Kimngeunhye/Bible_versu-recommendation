@@ -4,5 +4,7 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$/bible_verse" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="bootstrap" level="application" />
+    <orderEntry type="library" name="kakao" level="application" />
   </component>
 </module>
