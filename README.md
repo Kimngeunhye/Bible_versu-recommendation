@@ -1,1 +1,1 @@
-# Bible_versu-recommendation
+# Bible_verse-recommendation
